@@ -1,6 +1,6 @@
 # Contributing guidelines
 
-If you have created a model and would like to publish it here, please send us a
+If you have created something and would like to publish it here, please send us a
 pull request. For those just getting started with pull requests, GitHub has a
 [how-to](https://help.github.com/articles/using-pull-requests/).
 
