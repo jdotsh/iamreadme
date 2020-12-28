@@ -5,26 +5,6 @@
 *** Thanks again! Now go create something AMAZING! :D
 -->
 
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
-<p align="center">
-  
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-</p>
-
-
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -87,21 +67,13 @@ Here's a blank template to get started:
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
 
 
-### Built With
-
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Qt](https://qt.io)
-* [...]()
-* 
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
 
-### Prerequisites
+### Requirements
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
@@ -124,20 +96,13 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    until finished
    ```
-   
-<!-- USAGE EXAMPLES -->
-## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+### Built With
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
-
+This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+* [Qt](https://qt.io)
+* [...]()
+* 
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -155,15 +120,6 @@ Contributions are what make the open source community such an amazing place to b
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
-
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
