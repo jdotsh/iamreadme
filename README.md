@@ -15,15 +15,15 @@
   <h3 align="center"> Project Title </h3>
 
   <p align="center">
-    An awesome README template to jumpstart your projects!
+    Put a readme in evry project!
     <br />
     <a href="https://github.com/jdotsh/iamreadme"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/jdotsh/iamreadme">View Demo</a>
-    ·
+    -
     <a href="https://github.com/jdotsh/iamreadme/issues">Report Bug</a>
-    ·
+    -
     <a href="https://github.com/jdotsh/iamreadme/issues">Request Feature</a>
   </p>
 </p>
@@ -102,14 +102,7 @@ This section should list any major frameworks that you built your project using.
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
+If you want to contribute to models, be sure to review the [contribution guidelines](CONTRIBUTING.md).
 
 <!-- LICENSE -->
 ## License
